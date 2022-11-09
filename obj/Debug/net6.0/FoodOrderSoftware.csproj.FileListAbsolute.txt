@@ -1,0 +1,15 @@
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\bin\Debug\net6.0\FoodOrderSoftware.exe
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\bin\Debug\net6.0\FoodOrderSoftware.deps.json
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\bin\Debug\net6.0\FoodOrderSoftware.runtimeconfig.json
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\bin\Debug\net6.0\FoodOrderSoftware.dll
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\bin\Debug\net6.0\FoodOrderSoftware.pdb
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.csproj.AssemblyReference.cache
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.AssemblyInfoInputs.cache
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.AssemblyInfo.cs
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.csproj.CoreCompileInputs.cache
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.dll
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\refint\FoodOrderSoftware.dll
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.pdb
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\FoodOrderSoftware.genruntimeconfig.cache
+C:\Users\zbctoli\source\repos\FoodOrderSoftware\FoodOrderSoftware\obj\Debug\net6.0\ref\FoodOrderSoftware.dll
